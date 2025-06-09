@@ -1,4 +1,4 @@
-## Kaggle competition: Spaceship Titanic
+## Kaggle competition: Spaceship Titanic 🌌
 For my second ML/data science project, I'm participating in Kaggle's Spaceship Titanic competition.
 
 ### Data

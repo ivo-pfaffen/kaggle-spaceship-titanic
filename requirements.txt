@@ -4,3 +4,4 @@ seaborn
 matplotlib
 torch
 scikit-learn
+xgboost
